@@ -1,2 +1,3 @@
 print("oillerKung")
-print("oillerKung")
+
+print("by pari")
